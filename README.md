@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my Uber Deluxe
+- 🔭 I’m currently working on a Voting App
 
 - 🌱 I’m currently learning
 
