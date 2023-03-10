@@ -3,15 +3,12 @@
  
  A Software Engineer
 
-
-
 - 🔭 I’m currently working on a Voting App
 
-- 🌱 I’m currently learning
 
 -  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql,R)](https://skillicons.dev)
 
-  • I am also learning Django and SpringBoot frameworks, React and Node.js
+   Java,Python,Java-script,Springboot,Django,html,Css,React
 
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
 
