@@ -3,7 +3,7 @@
  
  A Software Engineer
 
-- 🔭 I’m currently working on an online voting system
+- 🔭 I’m currently working on a library management system
 
 
 -  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql,R)](https://skillicons.dev)
