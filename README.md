@@ -23,7 +23,7 @@
   
   •  Twitter: @Akinsanyadanie2
   
-  •  E-mail address: Akinsanyadaniel665@gmail.com
+  •  E-mail address: danielakinsanya665@gmail.com
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dannyy2000&theme=nord)](https://github.com/dannyy2000/github-profile-trophy)
