@@ -3,8 +3,6 @@
  
  A Software Engineer
 
-- 🔭 I’m currently working on a django e-walletApp
-
 
 -  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql,R)](https://skillicons.dev)
 
