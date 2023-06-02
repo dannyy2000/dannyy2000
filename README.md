@@ -17,7 +17,7 @@
 - 📫 How to reach me: 
 
 
-  • LinkedIn: hhtp://linkedin.com/in/akinsanya-daniel
+  • LinkedIn: https://linkedin.com/in/akinsanya-daniel
   
   •  Twitter: @Akinsanyadanie2
   
