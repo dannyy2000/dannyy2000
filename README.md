@@ -11,9 +11,6 @@
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
 
 
-- 💬 Ask me about Java,Python,OOP,Design Patterns and Test driven development
-
-
 - 📫 How to reach me: 
 
 
