@@ -6,7 +6,7 @@
 
 -  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql,R)](https://skillicons.dev)
 
-   Java,Python,Java-script,Springboot,Django,html,Css
+   Java,Python,Java-script,Springboot,Node.js, Django
 
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
 
