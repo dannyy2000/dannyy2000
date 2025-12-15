@@ -6,6 +6,7 @@
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
  Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
 
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
