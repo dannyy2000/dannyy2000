@@ -4,9 +4,9 @@
  A Software Engineer
 
 
--  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql,R)](https://skillicons.dev)
+-  [![My Skills](https://skillicons.dev/icons?i=java,solidity,typescript,python,js,postman,react,mysql,R)](https://skillicons.dev)
 
-   Java,Python,Java-script,Springboot,Node.js, Django
+   Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
 
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
 
@@ -16,7 +16,7 @@
 
   • LinkedIn: https://linkedin.com/in/akinsanya-daniel
   
-  •  Twitter: @Akinsanyadanie2
+  •  Twitter: https://x.com/0xDanny__
   
   •  E-mail address: danielakinsanya665@gmail.com
 
