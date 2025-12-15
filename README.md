@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,solidity,typescript,python,javascript,react,nodejs,mysql,postgres,git,github,docker,postman)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,spring,solidity,typescript,python,javascript,react,nodejs,mysql,postgres,git,github,docker,postman" />
 
    Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
 
