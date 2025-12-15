@@ -4,7 +4,9 @@
  A Software Engineer
 
 
--  [![My Skills](https://skillicons.dev/icons?i=java,solidity,typescript,python,js,postman,react,mysql,R)](https://skillicons.dev)
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,solidity,typescript,python,javascript,react,nodejs,mysql,postgres,git,github,docker,postman)](https://skillicons.dev)
 
    Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
 
