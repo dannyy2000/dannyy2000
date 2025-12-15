@@ -6,9 +6,11 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,solidity,typescript,python,javascript,react,nodejs,mysql,postgres,git,github,docker,postman" />
+### 🛠️ Tech Stack
 
-   Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
+<img src="https://skillicons.dev/icons?i=java,spring,solidity,typescript,python,javascript,react,nodejs,mysql,postgres,git,github,docker,postman" alt="Tech Stack" />
+
+ Java,Python,solidity,type-script,Java-script,Springboot,Node.js, Django
 
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
 
