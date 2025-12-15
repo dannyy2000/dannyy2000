@@ -7,8 +7,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,solidity,js,typescript,springboot,Django)](https://skillicons.dev)
 
-- 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge.
-
 
 - 📫 How to reach me: 
 
